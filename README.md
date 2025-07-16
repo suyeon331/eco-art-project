@@ -14,3 +14,4 @@
 2. 두 번째 항목
 3. 세 번째 항목
 ![아두이노](https://github.com/suyeon331/eco-art-project/blob/main/arduino.jpg)
+``` cpp digitalWrite(13, HIGH) ```

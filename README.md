@@ -14,7 +14,7 @@
 ## 🔧 제작 과정
 
 ### 1단계: 아이디어 스케치
-![스케치 이미지](https://github.com/suyeon331/eco-art-project/blob/main/%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4%20%EC%8A%A4%EC%BC%80%EC%B9%98(sy).heic)
+![스케치 이미지](https://github.com/suyeon331/eco-art-project/blob/main/%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4%20%EC%8A%A4%EC%BC%80%EC%B9%98.png)
 - 아이디어 설명: 투명 페트병 안에 빛 센서를 설치해 주면 밝기를 측정하고, 아두이노가 그 신호를 받아 빛이 부족할 때 LED를 켜서 "햇빛이 부족하다"는 메시지를 눈으로 쉽게 알 수 있게 만드는 친환경 교육용 모형 장치이다.
 - 예상 완성도
 
